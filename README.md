@@ -1,1 +1,1 @@
-# NCBI Local Experimentation Labs
+# NCBI Local KIND Experimentation Labs
