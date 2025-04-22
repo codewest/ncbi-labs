@@ -1,0 +1,11 @@
+specVersion: 0.36.0
+name: hello-http
+runtime: python
+registry: localhost:5001
+namespace: default
+created: 2025-04-21T20:35:35.329963158-04:00
+build:
+  builder: pack
+deploy:
+  namespace: default
+  image: localhost:5001/hello-http@sha256:b6788f41c1384028a2d9ff9d5fb7c9d134df90ec495750a1eecce18c98406731

@@ -1,0 +1,8 @@
+specVersion: 0.36.0
+name: hello-flask
+runtime: python
+created: 2025-04-21T20:35:26.820965477-04:00
+run:
+  envs:
+  - name: APP_MODULE
+    value: func:application
